@@ -4,6 +4,6 @@ c = conn.cursor()
 import datetime as time
 def table():
     
-    c.execute('CREATE TABLE IF NOT EXISTS car(car_name TEXT)')
+    c.execute('CREATE TABLE IF NOT EXISTS car(car_name TEXT,price INTEGER)')
     
 table()
