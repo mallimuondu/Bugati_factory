@@ -8,7 +8,7 @@
   <p align="center">
     This project is for a bugati factory <br>
 
-   etc
+ 
     <br>
     </p>
 </p>
